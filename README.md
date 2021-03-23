@@ -26,7 +26,7 @@ Please reach out via text or email with any clarifying questions while you compl
 * Clearly thought out application structure
 * Logically chosen variable and function names
 * Git [best practices](https://guides.github.com/introduction/flow/)
-* A `README.md` with clear instructions on how to run the API
+* A `README.md` with clear instructions on how to run you application on localhost
 
 
 ### How to submit your solution
