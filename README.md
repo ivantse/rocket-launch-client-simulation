@@ -1,25 +1,25 @@
 
-# Rocket Launche CLient Code Simulation
+# Rocket Launch CLient Code Simulation
 
 ### Goal
-Create an API for a rocket launch application that will give its users information about the history of rocket launches since 1959.
+Create a client that will give its users information about the history of rocket launches for a given date range.  Your application will consume a rocket launch API that provides data for all launches since 1959. 
 
 ### Requirements
-Your API should return the following data about rocket launches for a given rocket __company__ and/or __date range__.  The API will return:
+Create a simple app that displayed rocket launches since 1959 for a given __date range__.  The app should display the following:
 
-* Average launch cost (excluding nulls)
+* Average launch cost
 * Percent of launches where `mission_status` is `Success`
-* The most popular month for rocket launches
+* The most popular month for rocket launches in that date range
 * Top three `launch_locations`
-* Top three __countries__ where `launch_locations` take place
+* Top three __countries__ where `launch_locations` take place on a map
 
-Your API can be written in any language/framework and use any transport protocol supported by a modern web browser. Please include a simple API reference (i.e. a curl example) so a client application developer can use it. API authentication is not required and assume your API is public. The simulation should take less than three hours to complete.
+Your application should be written in the browser in any framework your choose (or no framework). The simulation should take less than three hours to complete.
 
 ### Connect to the API
-TBD
+The swagger for the API can be found at ...
 
 ### Communication
-We will invite you to a public slack channel to directly communicate with us while you complete the simulation. Feel free to ask any questions.
+Please reach out via text or email with any clarifying questions while you complete the simulation.
 
 ### What we are looking for:
 
