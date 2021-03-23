@@ -1,5 +1,5 @@
 
-# Rocket Launch CLient Code Simulation
+# Rocket Launch Client Code Simulation
 
 ### Goal
 Create a client that will give its users information about the history of rocket launches for a given date range.  Your application will consume a rocket launch API that provides data for all launches since 1959. 
@@ -13,7 +13,7 @@ Create a simple app that displayed rocket launches since 1959 for a given __date
 * Top three `launch_locations`
 * Top three __countries__ where `launch_locations` take place on a map
 
-Your application should be written in the browser in any framework your choose (or no framework). The simulation should take less than three hours to complete.
+Your application should be written in the browser in any framework you choose (or no framework). The simulation should take less than three hours to complete.
 
 ### Connect to the API
 The swagger for the API can be found at ...
