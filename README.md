@@ -16,7 +16,7 @@ Create a simple app that displayed rocket launches since 1959 for a given __date
 Your application should be written in the browser in any framework you choose (or no framework). The simulation should take less than three hours to complete.
 
 ### Connect to the API
-You will need to launch a local version of the API.  You can find the instruction the  [here](https://github.com/sourcetable/Samples.RocketLaunches).
+You will need to launch a local version of the API.  You can find the instructions [here](https://github.com/sourcetable/Samples.RocketLaunches).
 
 ### Communication
 Please reach out via text or email with any clarifying questions while you complete the simulation.
